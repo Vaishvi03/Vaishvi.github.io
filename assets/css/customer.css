@@ -11,16 +11,16 @@ body{
 .navbar-brand{
     font-family: 'Sansita Swashed', cursive;
     font-size: 1.5rem;
-    color: #0B0422!important;
+    color: #FFFFFF!important;
 }
 
 .nav-link{
-    color: #0B0422!important;
+    color: #FFFFFF!important;
     font-family: 'Noto Sans JP', sans-serif;
 }
 
 .nav-link:hover{
-    background-color: #0B0422;
+    background-color: #FFFFFF;
 }
 /* navbar css ends here  */
 
